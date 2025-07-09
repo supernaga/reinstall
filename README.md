@@ -10,7 +10,7 @@
 
 一键重装脚本 [English](README.en.md)
 
-[![Sponsors](https://raw.githubusercontent.com/bin456789/sponsors/refs/heads/master/sponsors.svg)](https://github.com/sponsors/bin456789)
+[![Sponsors](https://raw.githubusercontent.com/supernaga/sponsors/refs/heads/master/sponsors.svg)](https://github.com/sponsors/supernaga)
 
 ## 亮点
 
@@ -71,7 +71,7 @@ curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh 
 国内服务器：
 
 ```bash
-curl -O https://cnb.cool/bin456789/reinstall/-/git/raw/main/reinstall.sh || wget -O reinstall.sh $_
+curl -O https://cnb.cool/supernaga/reinstall/-/git/raw/main/reinstall.sh || wget -O reinstall.sh $_
 ```
 
 ## 下载（当前系统是 <img width="20" height="20" src="https://blogs.windows.com/wp-content/uploads/prod/2022/09/cropped-Windows11IconTransparent512-32x32.png" /> Windows）
@@ -87,7 +87,7 @@ curl -O https://cnb.cool/bin456789/reinstall/-/git/raw/main/reinstall.sh || wget
 
 用 IE 下载 (先在 IE 高级设置里启用 TLS 1.2)，或者通过远程桌面，将这两个文件保存到同一个目录
 
-- <https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.bat>
+- <https://raw.githubusercontent.com/supernaga/reinstall/main/reinstall.bat>
 
 - <https://www.cygwin.com/setup-x86.exe>
 
@@ -98,13 +98,13 @@ curl -O https://cnb.cool/bin456789/reinstall/-/git/raw/main/reinstall.sh || wget
 国外服务器：
 
 ```batch
-certutil -urlcache -f -split https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.bat
+certutil -urlcache -f -split https://raw.githubusercontent.com/supernaga/reinstall/main/reinstall.bat
 ```
 
 国内服务器：
 
 ```batch
-certutil -urlcache -f -split https://cnb.cool/bin456789/reinstall/-/git/raw/main/reinstall.bat
+certutil -urlcache -f -split https://cnb.cool/supernaga/reinstall/-/git/raw/main/reinstall.bat
 ```
 
 ## 使用
