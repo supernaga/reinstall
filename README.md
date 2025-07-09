@@ -10,7 +10,7 @@
 
 一键重装脚本 [English](README.en.md)
 
-[![Sponsors](https://raw.githubusercontent.com/supernaga/sponsors/refs/heads/master/sponsors.svg)](https://github.com/sponsors/supernaga)
+[![Sponsors](https://raw.githubusercontent.com/bin456789/sponsors/refs/heads/master/sponsors.svg)](https://github.com/sponsors/bin456789)
 
 ## 亮点
 
@@ -505,9 +505,9 @@ Windows Server 2025 SERVERDATACENTER
 
 ## 感谢
 
-[![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/supernaga)
+[![Github Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/bin456789)
 
 感谢以下商家提供白嫖机器
 
-[![Oracle Cloud](https://github.com/supernaga/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
-[![DartNode](https://github.com/supernaga/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com/)
+[![Oracle Cloud](https://github.com/bin456789/reinstall/assets/7548515/8b430ed4-8344-4f96-b4da-c2bda031cc90)](https://www.oracle.com/cloud/)
+[![DartNode](https://github.com/bin456789/reinstall/assets/7548515/435d6740-bcdd-4f3a-a196-2f60ae397f17)](https://dartnode.com/)
