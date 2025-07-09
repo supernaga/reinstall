@@ -448,7 +448,7 @@ Windows Server 2025 SERVERDATACENTER
 
 打开文件菜单 > 打开映像文件，选择要安装的 iso，即可得到映像名称，所有映像名称都可以安装
 
-![image-name](https://github.com/supernaga/reinstall/assets/7548515/5aae0a9b-61e2-4f66-bb98-d470a6beaac2)
+![image-name](https://github.com/bin/reinstall/assets/7548515/5aae0a9b-61e2-4f66-bb98-d470a6beaac2)
 
 > [!WARNING]
 > Vista (Server 2008) 和 32 位系统可能会缺少驱动
